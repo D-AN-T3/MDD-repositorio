@@ -1,5 +1,2 @@
-# MDD-repositorio
-
->[!NOTE]
->Hola, soy Cristopher Torres de Penco 
+hola esta es el README de MDD
 
